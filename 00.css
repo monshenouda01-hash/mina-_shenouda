@@ -672,20 +672,8 @@ footer {
   /* ====== الإعدادات العامة ====== */
 
 /* ====== الهيدر ====== */
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 20px;
-  background: #111;
-  position: relative;
-  z-index: 1200;
-}
 
-.logo {
-  font-weight: 700;
-  font-size: 20px;
-}
+
 
 /* ====== القائمة (كمبيوتر) ====== */
 nav.desk-nav {
